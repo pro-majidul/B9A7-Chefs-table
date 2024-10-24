@@ -8,7 +8,6 @@ const App = () => {
       <Header></Header>
       <Banner></Banner>
       <Recipes></Recipes>
-        <h3>Hellow world</h3>
     </div>
   );
 };
