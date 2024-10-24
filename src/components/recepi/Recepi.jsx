@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-const Recepi = ({ recepi }) => {
+const Recepi = ({ recepi ,handelCookes }) => {
     return (
         <div>
             <div className="card bg-base-100 border shadow-xl">
@@ -20,7 +20,7 @@ const Recepi = ({ recepi }) => {
                     <div className='flex items-center justify-between py-2 text-gray-500'>
                         <div className='flex gap-2 items-center'>
                             <i className="fa-regular fa-clock"></i>
-                            <p>{recepi.preparing_time}</p>
+                            <p>{recepi.preparing_time} Min</p>
                         </div>
                         <div className='flex items-center gap-2 '>
                         <i className="fa-solid fa-fire-flame-curved"></i>
@@ -28,7 +28,7 @@ const Recepi = ({ recepi }) => {
                         </div>
                     </div>
                     <div className="card-actions justify-start">
-                        <button className="btn bg-[#0BE58A] rounded-3xl">Want to Cook</button>
+                        <button onClick={()=>handelCookes(recepi)} className="btn bg-[#0BE58A] rounded-3xl">Want to Cook</button>
                     </div>
                 </div>
             </div>
@@ -36,6 +36,7 @@ const Recepi = ({ recepi }) => {
     );
 };
 Recepi.propTypes = {
-    recepi: PropTypes.object.isRequired
+    recepi: PropTypes.object.isRequired,
+    handelCookes:PropTypes.func.isRequired
 }
 export default Recepi;

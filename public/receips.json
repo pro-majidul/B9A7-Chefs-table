@@ -4,7 +4,7 @@
         "receip_id": "001",
         "receip_name": "Chicken Stir-Fry 1",
         "short_description": "A delicious stir-fry with chicken and fresh basil.",
-        "preparing_time": "30 minutes",
+        "preparing_time": 30,
         "calories": 450,
         "ingredients": [
             "550g chicken",
@@ -18,7 +18,7 @@
         "receip_id": "002",
         "receip_name": "Chicken Stir-Fry 2",
         "short_description": "Quick chicken stir-fry with soy sauce and mushrooms.",
-        "preparing_time": "25 minutes",
+        "preparing_time": 25,
         "calories": 500,
         "ingredients": [
             "600g chicken",
@@ -32,7 +32,7 @@
         "receip_id": "003",
         "receip_name": "Chicken Stir-Fry 3",
         "short_description": "A flavorful stir-fry with fresh ingredients and a savory sauce.",
-        "preparing_time": "30 minutes",
+        "preparing_time": 30,
         "calories": 480,
         "ingredients": [
             "500g chicken",
@@ -46,7 +46,7 @@
         "receip_id": "004",
         "receip_name": "Chicken Stir-Fry 4",
         "short_description": "Stir-fried chicken with basil and mushrooms for a quick meal.",
-        "preparing_time": "20 minutes",
+        "preparing_time": 20,
         "calories": 460,
         "ingredients": [
             "700g chicken",
@@ -60,7 +60,7 @@
         "receip_id": "005",
         "receip_name": "Chicken Stir-Fry 5",
         "short_description": "A tasty and healthy chicken stir-fry with a hint of soy sauce.",
-        "preparing_time": "30 minutes",
+        "preparing_time": 30,
         "calories": 450,
         "ingredients": [
             "650g chicken",
@@ -74,7 +74,7 @@
         "receip_id": "006",
         "receip_name": "Chicken Stir-Fry 6",
         "short_description": "Quick and easy chicken stir-fry packed with flavor.",
-        "preparing_time": "25 minutes",
+        "preparing_time": 25,
         "calories": 470,
         "ingredients": [
             "800g chicken",
@@ -88,7 +88,7 @@
         "receip_id": "007",
         "receip_name": "Chicken Stir-Fry 7",
         "short_description": "A quick and tasty stir-fry with vibrant colors and flavors.",
-        "preparing_time": "20 minutes",
+        "preparing_time": 20,
         "calories": 440,
         "ingredients": [
             "450g chicken",
@@ -102,7 +102,7 @@
         "receip_id": "008",
         "receip_name": "Chicken Stir-Fry 8",
         "short_description": "Sautéed chicken with a medley of fresh vegetables and herbs.",
-        "preparing_time": "30 minutes",
+        "preparing_time": 30,
         "calories": 450,
         "ingredients": [
             "720g chicken",
@@ -116,7 +116,7 @@
         "receip_id": "009",
         "receip_name": "Chicken Stir-Fry 9",
         "short_description": "A spicy and aromatic chicken stir-fry with mushrooms.",
-        "preparing_time": "25 minutes",
+        "preparing_time": 25,
         "calories": 460,
         "ingredients": [
             "680g chicken",
@@ -130,7 +130,7 @@
         "receip_id": "010",
         "receip_name": "Chicken Stir-Fry 10",
         "short_description": "Easy chicken stir-fry with a perfect balance of flavors.",
-        "preparing_time": "30 minutes",
+        "preparing_time": 30,
         "calories": 470,
         "ingredients": [
             "540g chicken",
