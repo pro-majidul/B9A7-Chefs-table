@@ -1,0 +1,142 @@
+[
+    {
+        "receip_image": "https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "receip_id": "001",
+        "receip_name": "Chicken Stir-Fry 1",
+        "short_description": "A delicious stir-fry with chicken and fresh basil.",
+        "preparing_time": "30 minutes",
+        "calories": 450,
+        "ingredients": [
+            "550g chicken",
+            "120ml soy sauce",
+            "200g basil leaf",
+            "400g mushroom"
+        ]
+    },
+    {
+        "receip_image": "https://images.pexels.com/photos/7964669/pexels-photo-7964669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "receip_id": "002",
+        "receip_name": "Chicken Stir-Fry 2",
+        "short_description": "Quick chicken stir-fry with soy sauce and mushrooms.",
+        "preparing_time": "25 minutes",
+        "calories": 500,
+        "ingredients": [
+            "600g chicken",
+            "100ml soy sauce",
+            "150g basil leaf",
+            "350g mushroom"
+        ]
+    },
+    {
+        "receip_image": "https://images.pexels.com/photos/20488451/pexels-photo-20488451/free-photo-of-people-dining-by-the-table-in-ramadan.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "receip_id": "003",
+        "receip_name": "Chicken Stir-Fry 3",
+        "short_description": "A flavorful stir-fry with fresh ingredients and a savory sauce.",
+        "preparing_time": "30 minutes",
+        "calories": 480,
+        "ingredients": [
+            "500g chicken",
+            "130ml soy sauce",
+            "250g basil leaf",
+            "300g mushroom"
+        ]
+    },
+    {
+        "receip_image": "https://images.pexels.com/photos/18177331/pexels-photo-18177331/free-photo-of-arabic-food-served-on-a-tray.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "receip_id": "004",
+        "receip_name": "Chicken Stir-Fry 4",
+        "short_description": "Stir-fried chicken with basil and mushrooms for a quick meal.",
+        "preparing_time": "20 minutes",
+        "calories": 460,
+        "ingredients": [
+            "700g chicken",
+            "90ml soy sauce",
+            "180g basil leaf",
+            "450g mushroom"
+        ]
+    },
+    {
+        "receip_image": "https://images.pexels.com/photos/2340204/pexels-photo-2340204.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "receip_id": "005",
+        "receip_name": "Chicken Stir-Fry 5",
+        "short_description": "A tasty and healthy chicken stir-fry with a hint of soy sauce.",
+        "preparing_time": "30 minutes",
+        "calories": 450,
+        "ingredients": [
+            "650g chicken",
+            "110ml soy sauce",
+            "220g basil leaf",
+            "380g mushroom"
+        ]
+    },
+    {
+        "receip_image": "https://images.pexels.com/photos/2271106/pexels-photo-2271106.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "receip_id": "006",
+        "receip_name": "Chicken Stir-Fry 6",
+        "short_description": "Quick and easy chicken stir-fry packed with flavor.",
+        "preparing_time": "25 minutes",
+        "calories": 470,
+        "ingredients": [
+            "800g chicken",
+            "140ml soy sauce",
+            "170g basil leaf",
+            "420g mushroom"
+        ]
+    },
+    {
+        "receip_image": "https://images.pexels.com/photos/3768012/pexels-photo-3768012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "receip_id": "007",
+        "receip_name": "Chicken Stir-Fry 7",
+        "short_description": "A quick and tasty stir-fry with vibrant colors and flavors.",
+        "preparing_time": "20 minutes",
+        "calories": 440,
+        "ingredients": [
+            "450g chicken",
+            "150ml soy sauce",
+            "200g basil leaf",
+            "500g mushroom"
+        ]
+    },
+    {
+        "receip_image": "https://images.pexels.com/photos/776314/pexels-photo-776314.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "receip_id": "008",
+        "receip_name": "Chicken Stir-Fry 8",
+        "short_description": "Sautéed chicken with a medley of fresh vegetables and herbs.",
+        "preparing_time": "30 minutes",
+        "calories": 450,
+        "ingredients": [
+            "720g chicken",
+            "85ml soy sauce",
+            "190g basil leaf",
+            "310g mushroom"
+        ]
+    },
+    {
+        "receip_image": "https://images.pexels.com/photos/11957172/pexels-photo-11957172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "receip_id": "009",
+        "receip_name": "Chicken Stir-Fry 9",
+        "short_description": "A spicy and aromatic chicken stir-fry with mushrooms.",
+        "preparing_time": "25 minutes",
+        "calories": 460,
+        "ingredients": [
+            "680g chicken",
+            "125ml soy sauce",
+            "210g basil leaf",
+            "390g mushroom"
+        ]
+    },
+    {
+        "receip_image": "https://images.pexels.com/photos/15069033/pexels-photo-15069033/free-photo-of-plant-with-shrimps.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "receip_id": "010",
+        "receip_name": "Chicken Stir-Fry 10",
+        "short_description": "Easy chicken stir-fry with a perfect balance of flavors.",
+        "preparing_time": "30 minutes",
+        "calories": 470,
+        "ingredients": [
+            "540g chicken",
+            "115ml soy sauce",
+            "230g basil leaf",
+            "370g mushroom"
+        ]
+    }
+]
